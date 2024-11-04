@@ -125,4 +125,6 @@
 ## Important Link:
 [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 
+---
+
 Source: [Krishnadey30](https://gist.github.com/krishnadey30/88c4e2f601e96597974c00185e479532)
